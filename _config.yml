@@ -1,8 +1,4 @@
 # To do
-# - Remove "Recent Posts" from homepage
-# - Add content to homepage
-# - Sections to homepage
-# - Smooth scroll
 # - Light/dark theme toggle
 
 
@@ -71,6 +67,10 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-include-cache
+#  - jekyll-feed   <-- Make sure this is **not** listed
+
+feed:
+  path: ""
 
 defaults:
   - scope:
