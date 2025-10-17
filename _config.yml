@@ -46,7 +46,7 @@ author:
 # =============================
 
 footer:
-  show_rss: false
+  show_rss: false   # Disable the default RSS link
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
