@@ -3,6 +3,7 @@
 # Put navbar items in hamburger menu on mobile
 # Sticky navbar
 # Back to top
+# High current section?
 
 # =============================
 #   Site Information
@@ -103,10 +104,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-# Smooth scrolling
-minimal_mistakes_skin: "dark"
-
-# Add at the bottom
-sass:
-  style: compressed
