@@ -46,6 +46,7 @@ author:
 # =============================
 
 footer:
+  show_rss: false
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
