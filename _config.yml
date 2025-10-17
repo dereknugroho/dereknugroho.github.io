@@ -14,7 +14,7 @@ description: "Data Scientist"
 email: "derek.nugroho@gmail.com"
 github_username: "dereknugroho"
 linkedin: "https://www.linkedin.com/in/dereknugroho/"
-# resume: "/assets/Derek_Nugroho_Resume.pdf"
+resume: "/assets/Derek_Nugroho_Resume.pdf"
 
 # =============================
 #   Theme Settings
@@ -40,9 +40,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dereknugroho"
-    - label: "Résumé (PDF)"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/Derek_Nugroho_Resume.pdf"
+    # - label: "Résumé (PDF)"
+    #   icon: "fas fa-fw fa-file-pdf"
+    #   url: "/assets/Derek_Nugroho_Resume.pdf"
 
 # =============================
 #   Top Navigation
