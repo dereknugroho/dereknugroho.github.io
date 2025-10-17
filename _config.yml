@@ -1,3 +1,9 @@
+# To do
+# Remove RSS feed from footer
+# Put navbar items in hamburger menu on mobile
+# Sticky navbar
+# Back to top
+
 # =============================
 #   Site Information
 # =============================
@@ -8,7 +14,7 @@ description: "Data Scientist"
 email: "derek.nugroho@gmail.com"
 github_username: "dereknugroho"
 linkedin: "https://www.linkedin.com/in/dereknugroho/"
-resume: "/assets/Derek_Nugroho_Resume.pdf"
+# resume: "/assets/Derek_Nugroho_Resume.pdf"
 
 # =============================
 #   Theme Settings
