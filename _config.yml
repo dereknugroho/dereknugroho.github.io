@@ -16,7 +16,7 @@
 
 title: "Derek Nugroho"
 name: "Derek Nugroho"
-description: "Data Scientist | Machine Learning | Turning Data Into Insight"
+description: "Data Scientist"
 email: "derek.nugroho@example.com"
 github_username: "dereknugroho"
 linkedin: "https://www.linkedin.com/in/dereknugroho/"
@@ -62,11 +62,11 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ":)"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://github.com/"
 
 footer:
