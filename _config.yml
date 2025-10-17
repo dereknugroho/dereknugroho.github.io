@@ -79,3 +79,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Disable blog index as homepage
+show_excerpts: false
+paginate: false
+
+# Smooth scrolling
+minimal_mistakes_skin: "dark"
+scroll_top: true
