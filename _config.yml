@@ -87,3 +87,7 @@ defaults:
 # Smooth scrolling
 minimal_mistakes_skin: "dark"
 scroll_top: true
+
+# Add at the bottom
+sass:
+  style: compressed
