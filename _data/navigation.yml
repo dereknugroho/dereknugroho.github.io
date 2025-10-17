@@ -1,7 +1,7 @@
 main:
   - title: "Education"
-    url: "#education"
+    url: "/#education"
   - title: "Projects"
-    url: "#projects"
+    url: "/#projects"
   - title: "Contact"
-    url: "#contact"
+    url: "/#contact"

@@ -39,6 +39,20 @@ author:
       url: "/assets/Derek_Nugroho_Resume.pdf"
 
 # =============================
+#   Top Navigation
+# =============================
+
+navigation:
+  - title: "Education"
+    url: "/#education"
+  - title: "Projects"
+    url: "/#projects"
+  - title: "Contact"
+    url: "/#contact"
+
+header_pages: []
+
+# =============================
 #   Footer Links
 # =============================
 
