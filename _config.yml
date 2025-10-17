@@ -80,9 +80,9 @@ defaults:
       layout: single
       author_profile: true
 
-# Disable blog index as homepage
-show_excerpts: false
-paginate: 0
+# # Disable blog index as homepage
+# show_excerpts: false
+# paginate: 0
 
 # Smooth scrolling
 minimal_mistakes_skin: "dark"
