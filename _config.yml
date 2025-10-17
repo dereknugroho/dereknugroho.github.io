@@ -1,7 +1,3 @@
-# To do
-# - Light/dark theme toggle
-
-
 # =============================
 #   Site Information
 # =============================
@@ -21,6 +17,7 @@ resume: "/assets/Derek_Nugroho_Resume.pdf"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"   # Other options: air, mint, contrast, dark, sunrise
 markdown: kramdown
+scroll_top: true
 
 # =============================
 #   Author Profile
@@ -28,7 +25,7 @@ markdown: kramdown
 
 author:
   name: "Derek Nugroho"
-  avatar: "/assets/images/initials.png"   # Add your photo in assets/images
+  avatar: "/assets/images/initials.png"
   bio: "Sushi enthusiast with a master's in data science."
   links:
     - label: "LinkedIn"
@@ -56,11 +53,18 @@ footer:
       url: "https://github.com/dereknugroho"
 
 # =============================
+#   Feed Settings
+# =============================
+
+feed:
+  path: ""   # Completely disable RSS feed generation
+
+# =============================
 #   Build Settings
 # =============================
 
 permalink: /:title/
-timezone: "America/Halifax"   # Adjust to your timezone
+timezone: "America/Halifax"
 include:
   - _pages
 
@@ -77,13 +81,8 @@ defaults:
       layout: single
       author_profile: true
 
-# # Disable blog index as homepage
-# show_excerpts: false
-# paginate: 0
-
 # Smooth scrolling
 minimal_mistakes_skin: "dark"
-scroll_top: true
 
 # Add at the bottom
 sass:
