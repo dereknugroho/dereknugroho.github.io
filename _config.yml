@@ -82,7 +82,7 @@ defaults:
 
 # Disable blog index as homepage
 show_excerpts: false
-paginate: false
+paginate: 0
 
 # Smooth scrolling
 minimal_mistakes_skin: "dark"
