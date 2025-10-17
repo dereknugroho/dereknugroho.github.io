@@ -68,10 +68,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-include-cache
-#  - jekyll-feed   <-- Make sure this is **not** listed
-
-feed:
-  path: ""
 
 defaults:
   - scope:
