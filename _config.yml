@@ -59,7 +59,7 @@ plugins:
 # Site Author
 author:
   name   : "Derek Nugroho"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Monogram Initials - Website.png"
   bio    : "Sushi enthusiast with a master's in data science."
   links:
     - label: "GitHub"
