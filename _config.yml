@@ -103,6 +103,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+    values:
+      custom_js:
+        - /assets/js/external-links.js
 
 category_archive:
   type: liquid
