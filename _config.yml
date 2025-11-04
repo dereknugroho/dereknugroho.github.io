@@ -19,7 +19,7 @@ title: Derek Nugroho
 description: Derek Nugroho's data science portfolio
 github_username: dereknugroho
 minimal_mistakes_skin: dark
-search: true
+search: false
 atom_feed:
   hide: true
 
