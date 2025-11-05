@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Derek Nugroho"
   avatar : "/assets/images/Monogram Initials - Website.png"
-  bio    : "Sushi enthusiast with a master's in data science."
+  bio    : "Master's in data science; refuses to deploy hacky code"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
