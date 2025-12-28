@@ -59,8 +59,8 @@ plugins:
 # Site Author
 author:
   name   : "Derek Nugroho"
-  avatar : "/assets/images/Monogram Initials - Website.png"
-  bio    : "Master's in data science; refuses to deploy hacky code"
+  avatar : "/assets/images/formal_edited_linkedin.jpeg"
+  bio    : "Quantitative Trader; refuses to deploy hacky code"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
