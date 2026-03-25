@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Derek Nugroho"
   avatar : "/assets/images/formal_edited_linkedin.jpeg"
-  bio    : "stats, ml, trading"
+  bio    : "stats | ml | trading"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
