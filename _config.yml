@@ -60,6 +60,7 @@ plugins:
 author:
   name   : "Derek Nugroho"
   avatar : "/assets/images/formal_edited_linkedin.jpeg"
+  bio    : "quant researcher; refuses to deploy hacky code"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
