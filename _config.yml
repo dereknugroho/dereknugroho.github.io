@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Derek Nugroho"
   avatar : "/assets/images/formal_edited_linkedin.jpeg"
-  bio    : "quant researcher; refuses to deploy hacky code"
+  bio    : "stats, ml, trading"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -79,7 +79,6 @@ footer:
       url: "https://www.linkedin.com/in/dereknugroho/"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
