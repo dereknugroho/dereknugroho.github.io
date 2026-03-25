@@ -60,7 +60,6 @@ plugins:
 author:
   name   : "Derek Nugroho"
   avatar : "/assets/images/formal_edited_linkedin.jpeg"
-  bio    : "quantitative researcher; refuses to deploy hacky code"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -68,9 +67,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dereknugroho/"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/@dereknugroho"
 
 footer:
   links:
@@ -80,9 +76,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dereknugroho/"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/@dereknugroho"
 
 defaults:
   # _posts
