@@ -63,7 +63,7 @@ author:
   bio    : "evendra.ai"
   links:
     - label: "evendra.ai"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://evendra.ai"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -75,7 +75,7 @@ author:
 footer:
   links:
     - label: "evendra.ai"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://evendra.ai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
