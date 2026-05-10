@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/formal_edited_linkedin.jpeg"
   bio    : "evendra.ai"
   links:
+    - label: "evendra.ai"
+      icon: "fab fa-fw fa-link"
+      url: "https://evendra.ai"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dereknugroho"
@@ -71,12 +74,15 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dereknugroho"
+    - label: "evendra.ai"
+      icon: "fab fa-fw fa-link"
+      url: "https://evendra.ai"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dereknugroho/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dereknugroho"
 
 defaults:
   - scope:
