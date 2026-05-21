@@ -65,12 +65,12 @@ author:
     - label: "evendra.ai"
       icon: "fas fa-fw fa-link"
       url: "https://evendra.ai"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dereknugroho"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dereknugroho/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dereknugroho"
 
 footer:
   links:
