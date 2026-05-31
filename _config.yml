@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Derek Nugroho"
   avatar : "/assets/images/formal_edited_linkedin.jpeg"
-  # bio    : "evendra.ai"
+  bio    : ""
   links:
     - label: "evendra.ai"
       icon: "fas fa-fw fa-link"
